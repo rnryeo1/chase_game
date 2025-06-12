@@ -1,0 +1,3411 @@
+fileFormatVersion: 2
+guid: dd2fbb761e4e62243a7b587215fcef8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hyptosis_tile-art-batch-3_0
+  - first:
+      213: 21300002
+    second: hyptosis_tile-art-batch-3_1
+  - first:
+      213: 21300004
+    second: hyptosis_tile-art-batch-3_2
+  - first:
+      213: 21300006
+    second: hyptosis_tile-art-batch-3_3
+  - first:
+      213: 21300008
+    second: hyptosis_tile-art-batch-3_4
+  - first:
+      213: 21300010
+    second: hyptosis_tile-art-batch-3_5
+  - first:
+      213: 21300012
+    second: hyptosis_tile-art-batch-3_6
+  - first:
+      213: 21300014
+    second: hyptosis_tile-art-batch-3_7
+  - first:
+      213: 21300016
+    second: hyptosis_tile-art-batch-3_8
+  - first:
+      213: 21300018
+    second: hyptosis_tile-art-batch-3_9
+  - first:
+      213: 21300020
+    second: hyptosis_tile-art-batch-3_10
+  - first:
+      213: 21300022
+    second: hyptosis_tile-art-batch-3_11
+  - first:
+      213: 21300024
+    second: hyptosis_tile-art-batch-3_12
+  - first:
+      213: 21300026
+    second: hyptosis_tile-art-batch-3_13
+  - first:
+      213: 21300028
+    second: hyptosis_tile-art-batch-3_14
+  - first:
+      213: 21300030
+    second: hyptosis_tile-art-batch-3_15
+  - first:
+      213: 21300032
+    second: hyptosis_tile-art-batch-3_16
+  - first:
+      213: 21300034
+    second: hyptosis_tile-art-batch-3_17
+  - first:
+      213: 21300036
+    second: hyptosis_tile-art-batch-3_18
+  - first:
+      213: 21300038
+    second: hyptosis_tile-art-batch-3_19
+  - first:
+      213: 21300040
+    second: hyptosis_tile-art-batch-3_20
+  - first:
+      213: 21300042
+    second: hyptosis_tile-art-batch-3_21
+  - first:
+      213: 21300044
+    second: hyptosis_tile-art-batch-3_22
+  - first:
+      213: 21300046
+    second: hyptosis_tile-art-batch-3_23
+  - first:
+      213: 21300048
+    second: hyptosis_tile-art-batch-3_24
+  - first:
+      213: 21300050
+    second: hyptosis_tile-art-batch-3_25
+  - first:
+      213: 21300052
+    second: hyptosis_tile-art-batch-3_26
+  - first:
+      213: 21300054
+    second: hyptosis_tile-art-batch-3_27
+  - first:
+      213: 21300056
+    second: hyptosis_tile-art-batch-3_28
+  - first:
+      213: 21300058
+    second: hyptosis_tile-art-batch-3_29
+  - first:
+      213: 21300060
+    second: hyptosis_tile-art-batch-3_30
+  - first:
+      213: 21300062
+    second: hyptosis_tile-art-batch-3_31
+  - first:
+      213: 21300064
+    second: hyptosis_tile-art-batch-3_32
+  - first:
+      213: 21300066
+    second: hyptosis_tile-art-batch-3_33
+  - first:
+      213: 21300068
+    second: hyptosis_tile-art-batch-3_34
+  - first:
+      213: 21300070
+    second: hyptosis_tile-art-batch-3_35
+  - first:
+      213: 21300072
+    second: hyptosis_tile-art-batch-3_36
+  - first:
+      213: 21300074
+    second: hyptosis_tile-art-batch-3_37
+  - first:
+      213: 21300076
+    second: hyptosis_tile-art-batch-3_38
+  - first:
+      213: 21300078
+    second: hyptosis_tile-art-batch-3_39
+  - first:
+      213: 21300080
+    second: hyptosis_tile-art-batch-3_40
+  - first:
+      213: 21300082
+    second: hyptosis_tile-art-batch-3_41
+  - first:
+      213: 21300084
+    second: hyptosis_tile-art-batch-3_42
+  - first:
+      213: 21300086
+    second: hyptosis_tile-art-batch-3_43
+  - first:
+      213: 21300088
+    second: hyptosis_tile-art-batch-3_44
+  - first:
+      213: 21300090
+    second: hyptosis_tile-art-batch-3_45
+  - first:
+      213: 21300092
+    second: hyptosis_tile-art-batch-3_46
+  - first:
+      213: 21300094
+    second: hyptosis_tile-art-batch-3_47
+  - first:
+      213: 21300096
+    second: hyptosis_tile-art-batch-3_48
+  - first:
+      213: 21300098
+    second: hyptosis_tile-art-batch-3_49
+  - first:
+      213: 21300100
+    second: hyptosis_tile-art-batch-3_50
+  - first:
+      213: 21300102
+    second: hyptosis_tile-art-batch-3_51
+  - first:
+      213: 21300104
+    second: hyptosis_tile-art-batch-3_52
+  - first:
+      213: 21300106
+    second: hyptosis_tile-art-batch-3_53
+  - first:
+      213: 21300108
+    second: hyptosis_tile-art-batch-3_54
+  - first:
+      213: 21300110
+    second: hyptosis_tile-art-batch-3_55
+  - first:
+      213: 21300112
+    second: hyptosis_tile-art-batch-3_56
+  - first:
+      213: 21300114
+    second: hyptosis_tile-art-batch-3_57
+  - first:
+      213: 21300116
+    second: hyptosis_tile-art-batch-3_58
+  - first:
+      213: 21300118
+    second: hyptosis_tile-art-batch-3_59
+  - first:
+      213: 21300120
+    second: hyptosis_tile-art-batch-3_60
+  - first:
+      213: 21300122
+    second: hyptosis_tile-art-batch-3_61
+  - first:
+      213: 21300124
+    second: hyptosis_tile-art-batch-3_62
+  - first:
+      213: 21300126
+    second: hyptosis_tile-art-batch-3_63
+  - first:
+      213: 21300128
+    second: hyptosis_tile-art-batch-3_64
+  - first:
+      213: 21300130
+    second: hyptosis_tile-art-batch-3_65
+  - first:
+      213: 21300132
+    second: hyptosis_tile-art-batch-3_66
+  - first:
+      213: 21300134
+    second: hyptosis_tile-art-batch-3_67
+  - first:
+      213: 21300136
+    second: hyptosis_tile-art-batch-3_68
+  - first:
+      213: 21300138
+    second: hyptosis_tile-art-batch-3_69
+  - first:
+      213: 21300140
+    second: hyptosis_tile-art-batch-3_70
+  - first:
+      213: 21300142
+    second: hyptosis_tile-art-batch-3_71
+  - first:
+      213: 21300144
+    second: hyptosis_tile-art-batch-3_72
+  - first:
+      213: 21300146
+    second: hyptosis_tile-art-batch-3_73
+  - first:
+      213: 21300148
+    second: hyptosis_tile-art-batch-3_74
+  - first:
+      213: 21300150
+    second: hyptosis_tile-art-batch-3_75
+  - first:
+      213: 21300152
+    second: hyptosis_tile-art-batch-3_76
+  - first:
+      213: 21300154
+    second: hyptosis_tile-art-batch-3_77
+  - first:
+      213: 21300156
+    second: hyptosis_tile-art-batch-3_78
+  - first:
+      213: 21300158
+    second: hyptosis_tile-art-batch-3_79
+  - first:
+      213: 21300160
+    second: hyptosis_tile-art-batch-3_80
+  - first:
+      213: 21300162
+    second: hyptosis_tile-art-batch-3_81
+  - first:
+      213: 21300164
+    second: hyptosis_tile-art-batch-3_82
+  - first:
+      213: 21300166
+    second: hyptosis_tile-art-batch-3_83
+  - first:
+      213: 21300168
+    second: hyptosis_tile-art-batch-3_84
+  - first:
+      213: 21300170
+    second: hyptosis_tile-art-batch-3_85
+  - first:
+      213: 21300172
+    second: hyptosis_tile-art-batch-3_86
+  - first:
+      213: 21300174
+    second: hyptosis_tile-art-batch-3_87
+  - first:
+      213: 21300176
+    second: hyptosis_tile-art-batch-3_88
+  - first:
+      213: 21300178
+    second: hyptosis_tile-art-batch-3_89
+  - first:
+      213: 21300180
+    second: hyptosis_tile-art-batch-3_90
+  - first:
+      213: 21300182
+    second: hyptosis_tile-art-batch-3_91
+  - first:
+      213: 21300184
+    second: hyptosis_tile-art-batch-3_92
+  - first:
+      213: 21300186
+    second: hyptosis_tile-art-batch-3_93
+  - first:
+      213: 21300188
+    second: hyptosis_tile-art-batch-3_94
+  - first:
+      213: 21300190
+    second: hyptosis_tile-art-batch-3_95
+  - first:
+      213: 21300192
+    second: hyptosis_tile-art-batch-3_96
+  - first:
+      213: 21300194
+    second: hyptosis_tile-art-batch-3_97
+  - first:
+      213: 21300196
+    second: hyptosis_tile-art-batch-3_98
+  - first:
+      213: 21300198
+    second: hyptosis_tile-art-batch-3_99
+  - first:
+      213: 21300200
+    second: hyptosis_tile-art-batch-3_100
+  - first:
+      213: 21300202
+    second: hyptosis_tile-art-batch-3_101
+  - first:
+      213: 21300204
+    second: hyptosis_tile-art-batch-3_102
+  - first:
+      213: 21300206
+    second: hyptosis_tile-art-batch-3_103
+  - first:
+      213: 21300208
+    second: hyptosis_tile-art-batch-3_104
+  - first:
+      213: 21300210
+    second: hyptosis_tile-art-batch-3_105
+  - first:
+      213: 21300212
+    second: hyptosis_tile-art-batch-3_106
+  - first:
+      213: 21300214
+    second: hyptosis_tile-art-batch-3_107
+  - first:
+      213: 21300216
+    second: hyptosis_tile-art-batch-3_108
+  - first:
+      213: 21300218
+    second: hyptosis_tile-art-batch-3_109
+  - first:
+      213: 21300220
+    second: hyptosis_tile-art-batch-3_110
+  - first:
+      213: 21300222
+    second: hyptosis_tile-art-batch-3_111
+  - first:
+      213: 21300224
+    second: hyptosis_tile-art-batch-3_112
+  - first:
+      213: 21300226
+    second: hyptosis_tile-art-batch-3_113
+  - first:
+      213: 21300228
+    second: hyptosis_tile-art-batch-3_114
+  - first:
+      213: 21300230
+    second: hyptosis_tile-art-batch-3_115
+  - first:
+      213: 21300232
+    second: hyptosis_tile-art-batch-3_116
+  - first:
+      213: 21300234
+    second: hyptosis_tile-art-batch-3_117
+  - first:
+      213: 21300236
+    second: hyptosis_tile-art-batch-3_118
+  - first:
+      213: 21300238
+    second: hyptosis_tile-art-batch-3_119
+  - first:
+      213: 21300240
+    second: hyptosis_tile-art-batch-3_120
+  - first:
+      213: 21300242
+    second: hyptosis_tile-art-batch-3_121
+  - first:
+      213: 21300244
+    second: hyptosis_tile-art-batch-3_122
+  - first:
+      213: 21300246
+    second: hyptosis_tile-art-batch-3_123
+  - first:
+      213: 21300248
+    second: hyptosis_tile-art-batch-3_124
+  - first:
+      213: 21300250
+    second: hyptosis_tile-art-batch-3_125
+  - first:
+      213: 21300252
+    second: hyptosis_tile-art-batch-3_126
+  - first:
+      213: 21300254
+    second: hyptosis_tile-art-batch-3_127
+  - first:
+      213: 21300256
+    second: hyptosis_tile-art-batch-3_128
+  - first:
+      213: 21300258
+    second: hyptosis_tile-art-batch-3_129
+  - first:
+      213: 21300260
+    second: hyptosis_tile-art-batch-3_130
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1113
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1151
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1112
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 912
+        width: 202
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_4
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 957
+        width: 160
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1112
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_6
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1075
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1070
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1069
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1061
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1054
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 792
+        width: 382
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1048
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1020
+        width: 134
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_14
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1055
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_15
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1052
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1054
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1014
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1003
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1007
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_20
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 954
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 894
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 906
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_23
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 905
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_24
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 901
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 891
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_26
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 906
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 871
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_28
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 827
+        width: 36
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_29
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 813
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 892
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_31
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 896
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_32
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 894
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_33
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 892
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 818
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 877
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_36
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 879
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_37
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 762
+        width: 160
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_38
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 865
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_39
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_40
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 867
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 858
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 858
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_43
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_44
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 847
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_45
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 850
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_46
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 841
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_47
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 840
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_48
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 840
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_49
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 844
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_50
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 839
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_51
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 840
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_52
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 834
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_53
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 831
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_54
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 830
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_55
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 830
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_56
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 827
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_57
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 825
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 791
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_59
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 245
+        width: 439
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_60
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 795
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_61
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 788
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 745
+        width: 99
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_63
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 731
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_64
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 739
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 744
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 727
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_67
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 727
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_68
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 761
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_69
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 638
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_70
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 731
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_71
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 749
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_72
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 731
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_73
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 727
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 659
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 690
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_76
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 690
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 681
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_78
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 473
+        width: 114
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 632
+        width: 126
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 573
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 605
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 577
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_83
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 578
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_84
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 633
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_85
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 599
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_86
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 471
+        width: 153
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 502
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 441
+        width: 36
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_89
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 470
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_90
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 503
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_91
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 520
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_92
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 510
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_93
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 348
+        width: 134
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_94
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 359
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 353
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_96
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 411
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_97
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 120
+        width: 219
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_98
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 339
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_99
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 380
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 347
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_101
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 352
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_102
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 305
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_103
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 335
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_104
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 329
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_105
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 234
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 318
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_107
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 302
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_108
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 302
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_109
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 295
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_110
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 298
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 289
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_112
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 293
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_113
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 234
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_114
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 232
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_116
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 142
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_117
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 148
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_118
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 149
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_119
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 132
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_120
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 132
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_121
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 105
+        width: 7
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_122
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 71
+        width: 258
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_123
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 117
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_124
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 134
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_125
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_126
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 116
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_127
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 115
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_128
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 107
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_129
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 79
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hyptosis_tile-art-batch-3_130
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 70
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hyptosis_tile-art-batch-3_0: 21300000
+      hyptosis_tile-art-batch-3_1: 21300002
+      hyptosis_tile-art-batch-3_10: 21300020
+      hyptosis_tile-art-batch-3_100: 21300200
+      hyptosis_tile-art-batch-3_101: 21300202
+      hyptosis_tile-art-batch-3_102: 21300204
+      hyptosis_tile-art-batch-3_103: 21300206
+      hyptosis_tile-art-batch-3_104: 21300208
+      hyptosis_tile-art-batch-3_105: 21300210
+      hyptosis_tile-art-batch-3_106: 21300212
+      hyptosis_tile-art-batch-3_107: 21300214
+      hyptosis_tile-art-batch-3_108: 21300216
+      hyptosis_tile-art-batch-3_109: 21300218
+      hyptosis_tile-art-batch-3_11: 21300022
+      hyptosis_tile-art-batch-3_110: 21300220
+      hyptosis_tile-art-batch-3_111: 21300222
+      hyptosis_tile-art-batch-3_112: 21300224
+      hyptosis_tile-art-batch-3_113: 21300226
+      hyptosis_tile-art-batch-3_114: 21300228
+      hyptosis_tile-art-batch-3_115: 21300230
+      hyptosis_tile-art-batch-3_116: 21300232
+      hyptosis_tile-art-batch-3_117: 21300234
+      hyptosis_tile-art-batch-3_118: 21300236
+      hyptosis_tile-art-batch-3_119: 21300238
+      hyptosis_tile-art-batch-3_12: 21300024
+      hyptosis_tile-art-batch-3_120: 21300240
+      hyptosis_tile-art-batch-3_121: 21300242
+      hyptosis_tile-art-batch-3_122: 21300244
+      hyptosis_tile-art-batch-3_123: 21300246
+      hyptosis_tile-art-batch-3_124: 21300248
+      hyptosis_tile-art-batch-3_125: 21300250
+      hyptosis_tile-art-batch-3_126: 21300252
+      hyptosis_tile-art-batch-3_127: 21300254
+      hyptosis_tile-art-batch-3_128: 21300256
+      hyptosis_tile-art-batch-3_129: 21300258
+      hyptosis_tile-art-batch-3_13: 21300026
+      hyptosis_tile-art-batch-3_130: 21300260
+      hyptosis_tile-art-batch-3_14: 21300028
+      hyptosis_tile-art-batch-3_15: 21300030
+      hyptosis_tile-art-batch-3_16: 21300032
+      hyptosis_tile-art-batch-3_17: 21300034
+      hyptosis_tile-art-batch-3_18: 21300036
+      hyptosis_tile-art-batch-3_19: 21300038
+      hyptosis_tile-art-batch-3_2: 21300004
+      hyptosis_tile-art-batch-3_20: 21300040
+      hyptosis_tile-art-batch-3_21: 21300042
+      hyptosis_tile-art-batch-3_22: 21300044
+      hyptosis_tile-art-batch-3_23: 21300046
+      hyptosis_tile-art-batch-3_24: 21300048
+      hyptosis_tile-art-batch-3_25: 21300050
+      hyptosis_tile-art-batch-3_26: 21300052
+      hyptosis_tile-art-batch-3_27: 21300054
+      hyptosis_tile-art-batch-3_28: 21300056
+      hyptosis_tile-art-batch-3_29: 21300058
+      hyptosis_tile-art-batch-3_3: 21300006
+      hyptosis_tile-art-batch-3_30: 21300060
+      hyptosis_tile-art-batch-3_31: 21300062
+      hyptosis_tile-art-batch-3_32: 21300064
+      hyptosis_tile-art-batch-3_33: 21300066
+      hyptosis_tile-art-batch-3_34: 21300068
+      hyptosis_tile-art-batch-3_35: 21300070
+      hyptosis_tile-art-batch-3_36: 21300072
+      hyptosis_tile-art-batch-3_37: 21300074
+      hyptosis_tile-art-batch-3_38: 21300076
+      hyptosis_tile-art-batch-3_39: 21300078
+      hyptosis_tile-art-batch-3_4: 21300008
+      hyptosis_tile-art-batch-3_40: 21300080
+      hyptosis_tile-art-batch-3_41: 21300082
+      hyptosis_tile-art-batch-3_42: 21300084
+      hyptosis_tile-art-batch-3_43: 21300086
+      hyptosis_tile-art-batch-3_44: 21300088
+      hyptosis_tile-art-batch-3_45: 21300090
+      hyptosis_tile-art-batch-3_46: 21300092
+      hyptosis_tile-art-batch-3_47: 21300094
+      hyptosis_tile-art-batch-3_48: 21300096
+      hyptosis_tile-art-batch-3_49: 21300098
+      hyptosis_tile-art-batch-3_5: 21300010
+      hyptosis_tile-art-batch-3_50: 21300100
+      hyptosis_tile-art-batch-3_51: 21300102
+      hyptosis_tile-art-batch-3_52: 21300104
+      hyptosis_tile-art-batch-3_53: 21300106
+      hyptosis_tile-art-batch-3_54: 21300108
+      hyptosis_tile-art-batch-3_55: 21300110
+      hyptosis_tile-art-batch-3_56: 21300112
+      hyptosis_tile-art-batch-3_57: 21300114
+      hyptosis_tile-art-batch-3_58: 21300116
+      hyptosis_tile-art-batch-3_59: 21300118
+      hyptosis_tile-art-batch-3_6: 21300012
+      hyptosis_tile-art-batch-3_60: 21300120
+      hyptosis_tile-art-batch-3_61: 21300122
+      hyptosis_tile-art-batch-3_62: 21300124
+      hyptosis_tile-art-batch-3_63: 21300126
+      hyptosis_tile-art-batch-3_64: 21300128
+      hyptosis_tile-art-batch-3_65: 21300130
+      hyptosis_tile-art-batch-3_66: 21300132
+      hyptosis_tile-art-batch-3_67: 21300134
+      hyptosis_tile-art-batch-3_68: 21300136
+      hyptosis_tile-art-batch-3_69: 21300138
+      hyptosis_tile-art-batch-3_7: 21300014
+      hyptosis_tile-art-batch-3_70: 21300140
+      hyptosis_tile-art-batch-3_71: 21300142
+      hyptosis_tile-art-batch-3_72: 21300144
+      hyptosis_tile-art-batch-3_73: 21300146
+      hyptosis_tile-art-batch-3_74: 21300148
+      hyptosis_tile-art-batch-3_75: 21300150
+      hyptosis_tile-art-batch-3_76: 21300152
+      hyptosis_tile-art-batch-3_77: 21300154
+      hyptosis_tile-art-batch-3_78: 21300156
+      hyptosis_tile-art-batch-3_79: 21300158
+      hyptosis_tile-art-batch-3_8: 21300016
+      hyptosis_tile-art-batch-3_80: 21300160
+      hyptosis_tile-art-batch-3_81: 21300162
+      hyptosis_tile-art-batch-3_82: 21300164
+      hyptosis_tile-art-batch-3_83: 21300166
+      hyptosis_tile-art-batch-3_84: 21300168
+      hyptosis_tile-art-batch-3_85: 21300170
+      hyptosis_tile-art-batch-3_86: 21300172
+      hyptosis_tile-art-batch-3_87: 21300174
+      hyptosis_tile-art-batch-3_88: 21300176
+      hyptosis_tile-art-batch-3_89: 21300178
+      hyptosis_tile-art-batch-3_9: 21300018
+      hyptosis_tile-art-batch-3_90: 21300180
+      hyptosis_tile-art-batch-3_91: 21300182
+      hyptosis_tile-art-batch-3_92: 21300184
+      hyptosis_tile-art-batch-3_93: 21300186
+      hyptosis_tile-art-batch-3_94: 21300188
+      hyptosis_tile-art-batch-3_95: 21300190
+      hyptosis_tile-art-batch-3_96: 21300192
+      hyptosis_tile-art-batch-3_97: 21300194
+      hyptosis_tile-art-batch-3_98: 21300196
+      hyptosis_tile-art-batch-3_99: 21300198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

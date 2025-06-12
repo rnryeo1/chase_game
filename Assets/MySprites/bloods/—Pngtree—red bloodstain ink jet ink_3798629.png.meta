@@ -1,0 +1,1661 @@
+fileFormatVersion: 2
+guid: 052c8c7832fcfc54f920c2e3c5440c61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3532809625442444850
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_0"
+  - first:
+      213: 2332273520465478047
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_1"
+  - first:
+      213: 999282394928676555
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_2"
+  - first:
+      213: -3634133120215577183
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_3"
+  - first:
+      213: 7841983343355417702
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_4"
+  - first:
+      213: -7040832772584807913
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_5"
+  - first:
+      213: 5220931555420015280
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_6"
+  - first:
+      213: -3304815849799924348
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_7"
+  - first:
+      213: 7826452326416095613
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_8"
+  - first:
+      213: 8155424487456552162
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_9"
+  - first:
+      213: -3021090853109445434
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_10"
+  - first:
+      213: 642818473335142357
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_11"
+  - first:
+      213: 5259051754851687757
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_12"
+  - first:
+      213: 6233613297783305256
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_13"
+  - first:
+      213: 8563575250945136760
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_14"
+  - first:
+      213: -270387133199596780
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_15"
+  - first:
+      213: 9067719059823154426
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_16"
+  - first:
+      213: -6469608716689663711
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_17"
+  - first:
+      213: 4313152751128836317
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_18"
+  - first:
+      213: -1102415722431866378
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_19"
+  - first:
+      213: -364652125459613005
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_20"
+  - first:
+      213: -1029956304121840267
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_21"
+  - first:
+      213: -7702028598000814563
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_22"
+  - first:
+      213: 7830151389215066240
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_23"
+  - first:
+      213: -5532284023455707168
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_24"
+  - first:
+      213: 3648331560288135325
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_25"
+  - first:
+      213: 8351179170607996436
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_26"
+  - first:
+      213: 7672730785375400810
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_27"
+  - first:
+      213: -771406529198616457
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_28"
+  - first:
+      213: -3753547079529270644
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_29"
+  - first:
+      213: -7258610731134679566
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_30"
+  - first:
+      213: 107528079820828170
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_31"
+  - first:
+      213: -6686615982477790528
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_32"
+  - first:
+      213: -2418770206784376226
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_33"
+  - first:
+      213: -4622090464188885026
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_34"
+  - first:
+      213: 651560964489444970
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_35"
+  - first:
+      213: 352684812370158718
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_36"
+  - first:
+      213: 9203852790303243066
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_37"
+  - first:
+      213: 7424862978811687847
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_38"
+  - first:
+      213: -8344432058718349148
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_39"
+  - first:
+      213: -3301335017554687801
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_40"
+  - first:
+      213: -4311334320791817988
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_41"
+  - first:
+      213: -5642946653783531106
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_42"
+  - first:
+      213: 4868436720701848
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_43"
+  - first:
+      213: 8206355462877582034
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_44"
+  - first:
+      213: 4609071085153387707
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_45"
+  - first:
+      213: -5290964688138678021
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_46"
+  - first:
+      213: -7059904195652573305
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_47"
+  - first:
+      213: -4792479737634890459
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_48"
+  - first:
+      213: -2553162216428422426
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_49"
+  - first:
+      213: -7364494157303896279
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_50"
+  - first:
+      213: -1217934631593259083
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_51"
+  - first:
+      213: 8484407335840077541
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_52"
+  - first:
+      213: 7903507929437621027
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_53"
+  - first:
+      213: 6029390113279924584
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_54"
+  - first:
+      213: -4878115615611887599
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_55"
+  - first:
+      213: -1637862352720431813
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_56"
+  - first:
+      213: 1332210077653174812
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_57"
+  - first:
+      213: 7789494406775400551
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_58"
+  - first:
+      213: 7592560655013269979
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_59"
+  - first:
+      213: 6882349337957644012
+    second: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_60"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_0"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 355
+        width: 1357
+        height: 1297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236e39ff2af070130800000000000000
+      internalID: 3532809625442444850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_1"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1191
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910562f866ed5020800000000000000
+      internalID: 2332273520465478047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_2"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1156
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce76043b0a2edd00800000000000000
+      internalID: 999282394928676555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_3"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad811f7e27f09dc0800000000000000
+      internalID: -3634133120215577183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_4"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664da3b5d4254dc60800000000000000
+      internalID: 7841983343355417702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_5"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1151
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126723b5efe94e90800000000000000
+      internalID: -7040832772584807913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_6"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1125
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba00758699747840800000000000000
+      internalID: 5220931555420015280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_7"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1050
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48548988e7fe222d0800000000000000
+      internalID: -3304815849799924348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_8"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1100
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d799f8face42d9c60800000000000000
+      internalID: 7826452326416095613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_9"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1104
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4be5fac53ed2170800000000000000
+      internalID: 8155424487456552162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_10"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1082
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccca3220ede216d0800000000000000
+      internalID: -3021090853109445434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_11"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1041
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d73336eeffbbe800800000000000000
+      internalID: 642818473335142357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_12"
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1050
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d545715b7ebf840800000000000000
+      internalID: 5259051754851687757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_13"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1048
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8247689644e328650800000000000000
+      internalID: 6233613297783305256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_14"
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1053
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87859e7a15ee7d670800000000000000
+      internalID: 8563575250945136760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_15"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1004
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134dcdb5546f3cf0800000000000000
+      internalID: -270387133199596780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_16"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 970
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af45ccb217207dd70800000000000000
+      internalID: 9067719059823154426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_17"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 981
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12911fd46255736a0800000000000000
+      internalID: -6469608716689663711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_18"
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 955
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8780933956bdb30800000000000000
+      internalID: 4313152751128836317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_19"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 961
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f994a5cdbe63b0f0800000000000000
+      internalID: -1102415722431866378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_20"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 951
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba736be2de70faf0800000000000000
+      internalID: -364652125459613005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_21"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 941
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db4a6c23cd4b1f0800000000000000
+      internalID: -1029956304121840267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_22"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 918
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16f2461cc5ec1590800000000000000
+      internalID: -7702028598000814563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_23"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08802bbd3394aac60800000000000000
+      internalID: 7830151389215066240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_24"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 903
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef8a51fdf06933b0800000000000000
+      internalID: -5532284023455707168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_25"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 932
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9822d1793a71a230800000000000000
+      internalID: 3648331560288135325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_26"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 771
+        width: 89
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e1bbf853955e370800000000000000
+      internalID: 8351179170607996436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_27"
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 918
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6331875ff30b7a60800000000000000
+      internalID: 7672730785375400810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_28"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 916
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77013b949d96b45f0800000000000000
+      internalID: -771406529198616457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_29"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 891
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82f3fc71d8b8ebc0800000000000000
+      internalID: -3753547079529270644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_30"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 867
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f501ef6ffb344b90800000000000000
+      internalID: -7258610731134679566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_31"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 901
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ea91908340e7100800000000000000
+      internalID: 107528079820828170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_32"
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 896
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c236fee03e5433a0800000000000000
+      internalID: -6686615982477790528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_33"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 823
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b157ef4dce6ed0800000000000000
+      internalID: -2418770206784376226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_34"
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 889
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed71d4236390bdfb0800000000000000
+      internalID: -4622090464188885026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_35"
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 875
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e77edbe3fca0900800000000000000
+      internalID: 651560964489444970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_36"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 834
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74affed7fcf4e400800000000000000
+      internalID: 352684812370158718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_37"
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 848
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b33034957aabf70800000000000000
+      internalID: 9203852790303243066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_38"
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 827
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f4066a896a0760800000000000000
+      internalID: 7424862978811687847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_39"
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 787
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a816b7d04f923c80800000000000000
+      internalID: -8344432058718349148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_40"
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 820
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c84812fa4d4f22d0800000000000000
+      internalID: -3301335017554687801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_41"
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 804
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0f04517401b24c0800000000000000
+      internalID: -4311334320791817988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_42"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 801
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91e0ce7ae930b1b0800000000000000
+      internalID: -5642946653783531106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_43"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 803
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891595141db411000800000000000000
+      internalID: 4868436720701848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_44"
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 798
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2976970d4d2e170800000000000000
+      internalID: 8206355462877582034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_45"
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 799
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb487176bb5b6ff30800000000000000
+      internalID: 4609071085153387707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_46"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 780
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0db5c16a7b296b0800000000000000
+      internalID: -5290964688138678021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_47"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 774
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787a6ddf98e260e90800000000000000
+      internalID: -7059904195652573305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_48"
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 771
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd30df111bd7db0800000000000000
+      internalID: -4792479737634890459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_49"
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 766
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eab5dbcd78519cd0800000000000000
+      internalID: -2553162216428422426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_50"
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 765
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927267b259f0cc990800000000000000
+      internalID: -7364494157303896279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_51"
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 770
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfcc3cc7e6091fe0800000000000000
+      internalID: -1217934631593259083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_52"
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 759
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e65776058baeb570800000000000000
+      internalID: 8484407335840077541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_53"
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 687
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bcc955696eead60800000000000000
+      internalID: 7903507929437621027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_54"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 729
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695d4aec52bca350800000000000000
+      internalID: 6029390113279924584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_55"
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 739
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110ea2661b37d4cb0800000000000000
+      internalID: -4878115615611887599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_56"
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 738
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35fc133ed42549e0800000000000000
+      internalID: -1637862352720431813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_57"
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 723
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a86bcd106fc7210800000000000000
+      internalID: 1332210077653174812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_58"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 665
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7686db774e7d91c60800000000000000
+      internalID: 7789494406775400551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_59"
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 636
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd15ca940b13e5960800000000000000
+      internalID: 7592560655013269979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_60"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce63c153244038f50800000000000000
+      internalID: 6882349337957644012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_0": 3532809625442444850
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_1": 2332273520465478047
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_10": -3021090853109445434
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_11": 642818473335142357
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_12": 5259051754851687757
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_13": 6233613297783305256
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_14": 8563575250945136760
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_15": -270387133199596780
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_16": 9067719059823154426
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_17": -6469608716689663711
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_18": 4313152751128836317
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_19": -1102415722431866378
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_2": 999282394928676555
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_20": -364652125459613005
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_21": -1029956304121840267
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_22": -7702028598000814563
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_23": 7830151389215066240
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_24": -5532284023455707168
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_25": 3648331560288135325
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_26": 8351179170607996436
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_27": 7672730785375400810
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_28": -771406529198616457
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_29": -3753547079529270644
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_3": -3634133120215577183
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_30": -7258610731134679566
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_31": 107528079820828170
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_32": -6686615982477790528
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_33": -2418770206784376226
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_34": -4622090464188885026
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_35": 651560964489444970
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_36": 352684812370158718
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_37": 9203852790303243066
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_38": 7424862978811687847
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_39": -8344432058718349148
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_4": 7841983343355417702
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_40": -3301335017554687801
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_41": -4311334320791817988
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_42": -5642946653783531106
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_43": 4868436720701848
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_44": 8206355462877582034
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_45": 4609071085153387707
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_46": -5290964688138678021
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_47": -7059904195652573305
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_48": -4792479737634890459
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_49": -2553162216428422426
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_5": -7040832772584807913
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_50": -7364494157303896279
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_51": -1217934631593259083
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_52": 8484407335840077541
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_53": 7903507929437621027
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_54": 6029390113279924584
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_55": -4878115615611887599
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_56": -1637862352720431813
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_57": 1332210077653174812
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_58": 7789494406775400551
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_59": 7592560655013269979
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_6": 5220931555420015280
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_60": 6882349337957644012
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_7": -3304815849799924348
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_8": 7826452326416095613
+      "\u2014Pngtree\u2014red bloodstain ink jet ink_3798629_9": 8155424487456552162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

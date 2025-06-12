@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: e2ae1bb5952b22d4789c9f250f6ab908
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7154159591118105261
+    second: sattelite_0
+  - first:
+      213: -8292548576767220174
+    second: sattelite_1
+  - first:
+      213: 3837227612275810929
+    second: sattelite_2
+  - first:
+      213: -3464623284199642720
+    second: sattelite_3
+  - first:
+      213: -4845919578147653003
+    second: sattelite_4
+  - first:
+      213: -7648799949374636401
+    second: sattelite_5
+  - first:
+      213: -1074985943656600064
+    second: sattelite_6
+  - first:
+      213: 6631049091723716281
+    second: sattelite_7
+  - first:
+      213: -6356500138553770432
+    second: sattelite_8
+  - first:
+      213: 3637269254564827245
+    second: sattelite_9
+  - first:
+      213: -1389560591176306483
+    second: sattelite_10
+  - first:
+      213: -5620304270453471959
+    second: sattelite_11
+  - first:
+      213: -7713789579037884973
+    second: sattelite_12
+  - first:
+      213: -7105603370742913885
+    second: sattelite_13
+  - first:
+      213: 910241530583880408
+    second: sattelite_14
+  - first:
+      213: 1399777746038987783
+    second: sattelite_15
+  - first:
+      213: -7987770735526709162
+    second: sattelite_16
+  - first:
+      213: -9127652609746779761
+    second: sattelite_17
+  - first:
+      213: 4435822983839452390
+    second: sattelite_18
+  - first:
+      213: 20527592190352025
+    second: sattelite_19
+  - first:
+      213: -3334819947354188142
+    second: sattelite_20
+  - first:
+      213: -466070606778816731
+    second: sattelite_21
+  - first:
+      213: 312077747242782359
+    second: sattelite_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sattelite_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 397
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35593f891c157bc90800000000000000
+      internalID: -7154159591118105261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2366e175103faec80800000000000000
+      internalID: -8292548576767220174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 335
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1722500de22904530800000000000000
+      internalID: 3837227612275810929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 353
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9abb8ba7f2befc0800000000000000
+      internalID: -3464623284199642720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 348
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af56681d5dfbcb0800000000000000
+      internalID: -4845919578147653003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 360
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ebf7b98f00ad590800000000000000
+      internalID: -7648799949374636401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 279
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e6fc1daf1e411f0800000000000000
+      internalID: -1074985943656600064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 297
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66e502408360c50800000000000000
+      internalID: 6631049091723716281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 213
+        width: 121
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef7ca5dcc29c7a0800000000000000
+      internalID: -6356500138553770432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 293
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6059cead1d2a7230800000000000000
+      internalID: 3637269254564827245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 306
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0fd09210a47bce0800000000000000
+      internalID: -1389560591176306483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 225
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925820e2b0ba002b0800000000000000
+      internalID: -5620304270453471959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 243
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd365d4f3d13f490800000000000000
+      internalID: -7713789579037884973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 231
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ec04a163d36d90800000000000000
+      internalID: -7105603370742913885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 250
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2924279d3d1ac00800000000000000
+      internalID: 910241530583880408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 169
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c962591720d6310800000000000000
+      internalID: 1399777746038987783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 187
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6587ba946dcb52190800000000000000
+      internalID: -7987770735526709162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8140e2df40145180800000000000000
+      internalID: -9127652609746779761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 177
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec834670853f8d30800000000000000
+      internalID: 4435822983839452390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 196
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a99908cbde84000800000000000000
+      internalID: 20527592190352025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 115
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29611103de658b1d0800000000000000
+      internalID: -3334819947354188142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 133
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527a2b2a04f2889f0800000000000000
+      internalID: -466070606778816731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sattelite_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec5b2ce09b45400800000000000000
+      internalID: 312077747242782359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sattelite_0: -7154159591118105261
+      sattelite_1: -8292548576767220174
+      sattelite_10: -1389560591176306483
+      sattelite_11: -5620304270453471959
+      sattelite_12: -7713789579037884973
+      sattelite_13: -7105603370742913885
+      sattelite_14: 910241530583880408
+      sattelite_15: 1399777746038987783
+      sattelite_16: -7987770735526709162
+      sattelite_17: -9127652609746779761
+      sattelite_18: 4435822983839452390
+      sattelite_19: 20527592190352025
+      sattelite_2: 3837227612275810929
+      sattelite_20: -3334819947354188142
+      sattelite_21: -466070606778816731
+      sattelite_22: 312077747242782359
+      sattelite_3: -3464623284199642720
+      sattelite_4: -4845919578147653003
+      sattelite_5: -7648799949374636401
+      sattelite_6: -1074985943656600064
+      sattelite_7: 6631049091723716281
+      sattelite_8: -6356500138553770432
+      sattelite_9: 3637269254564827245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
